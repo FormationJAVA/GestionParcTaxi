@@ -6,7 +6,7 @@ public class Fenetre extends JFrame {
 
 	private Pan pc;
 	
-	Fenetre()
+	public Fenetre()
 	{
 		
 		this.setSize(800, 600);
